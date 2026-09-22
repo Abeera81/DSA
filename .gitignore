@@ -80,3 +80,7 @@ Testing/
    # IDE metadata
    .vscode/
    .idea/
+# Linux compiled binaries (no extension)
+task1
+task2
+task3
