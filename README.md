@@ -1,3 +1,4 @@
 # DSA-Lab1
 
-Practising git.
+Learning and practising git.
+
